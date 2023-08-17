@@ -1,0 +1,40 @@
+/*.vert-hr {
+    position: relative;
+  
+    &:after {
+      content: "";
+      position: absolute;
+      z-index: 0;
+      top: 14px;
+      bottom: 6px;
+      left: -13.1px;
+      border-left: 1px solid #eeeeee;
+      transform: translate(-50%);
+    }
+  }
+  .title-dot {
+    margin-left: -27px;
+    font-size: 12px;
+    z-index: 99;
+    color: #e0d9d9;
+    vertical-align: middle;
+    &:last-child {
+      font-size: 0.4em;
+    }
+    &-sm {
+      left: 4px;
+      margin-left: -27px;
+      font-size: 10px;
+      z-index: 99;
+      color: #ffffff;
+      vertical-align: middle;
+  
+      &:last-child {
+        font-size: 0.5em;
+      }
+    }
+  }
+  .title {
+    margin-left: -22px;
+    color: #c2c4c5;
+  }*/
